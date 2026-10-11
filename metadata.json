@@ -1,0 +1,6 @@
+{
+  "name": "AutoBiasEd - Hệ Thống Nghiên Cứu Automation Bias & Học Tập AI",
+  "description": "Nền tảng nghiên cứu thực nghiệm Automation Bias và rèn luyện năng lực kiểm chứng nội dung AI trong giáo dục THPT",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
